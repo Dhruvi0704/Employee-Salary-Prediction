@@ -6,7 +6,7 @@ Create a virtual environment (recommended):
 ```bash
 python -m venv venv
 # On Mac/Linux, use
-source venv/bin/activate
+source venv/bin/activate 
 # On Windows, use
 venv\Scripts\activate
 ```
