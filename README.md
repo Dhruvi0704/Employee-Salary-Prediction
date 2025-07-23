@@ -5,8 +5,10 @@ To run this project locally, follow these steps:
 Create a virtual environment (recommended):
 ```bash
 python -m venv venv
-# On Mac/Linux, use source venv/bin/activate
-# On Windows, use `venv\Scripts\activate
+# On Mac/Linux, use
+source venv/bin/activate
+# On Windows, use
+venv\Scripts\activate
 ```
 Install the required dependencies:
 ```bash
