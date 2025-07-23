@@ -1,6 +1,6 @@
 # Employee-Salary-Prediction
 ## 🛠️ Setup and Installation
-To run this project locally, follow these steps:
+To run this project locally, follow these steps: 
 
 Create a virtual environment (recommended):
 ```bash
