@@ -1,4 +1,5 @@
 # Employee-Salary-Prediction
+An ML model to predict whether an employee earns >$50K or ≤$50K
 ## 🛠️ Setup and Installation
 To run this project locally, follow these steps: 
 
